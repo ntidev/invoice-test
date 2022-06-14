@@ -22,27 +22,39 @@ The basic idea behind the application is that an Employee can log in and create/
 Note: These screens are meant to be for illustration purposes only and should not be used as a definitive layout. You are open to show the information in the way that is best for you as long as it provides the functionality that is requested.
 
 **Login Screen**
+<br />
 ![Login](https://github.com/ntidev/invoice-test/blob/main/assets/login.png)
+<br />
 Note: Initially, a manual user account can be created in the database. Forgot password button is optional.
 
 **Invoices**
+<br />
 ![Invoices](https://github.com/ntidev/invoice-test/blob/main/assets/list_of_invoices.png)
+<br />
 Note: This section shows the list of invoices.
 
 **Invoice View/New/Edit**
+<br />
 ![Invoice View/Edit/New](https://github.com/ntidev/invoice-test/blob/main/assets/new_edit_invoice.png)
+<br />
 Note: This section shows a form to create, edit invoice. 
 
 **Customers**
+<br />
 ![Customers](https://github.com/ntidev/invoice-test/blob/main/assets/list_of_customers.png)
+<br />
 Note: This section shows the list of customers.
 
 **Customers View/New/Edit**
+<br />
 ![Customers View/Edit/New](https://github.com/ntidev/invoice-test/blob/main/assets/new_edit_customer.png)
+<br />
 Note: This section shows a form to create, edit customers. 
 
 **Report**
+<br />
 ![Report](https://github.com/ntidev/invoice-test/blob/main/assets/generate_report.png)
+<br />
 Note: Initially, no data needs to be displayed until a date range is specified and the generate action is issued. The report shows invoices generated in the system during a timeframe. 
 
 ### Bonus Points
