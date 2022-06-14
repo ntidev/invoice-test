@@ -23,7 +23,7 @@ Note: These screens are meant to be for illustration purposes only and should no
 
 **Login Screen**
 ![Login](https://github.com/ntidev/invoice-test/blob/main/assets/login.png)
-Note: Initially, a manual user account can be created in the database.
+Note: Initially, a manual user account can be created in the database. Forgot password button is optional.
 
 **Invoices**
 ![Invoices](https://github.com/ntidev/invoice-test/blob/main/assets/list_of_invoices.png)
@@ -42,7 +42,7 @@ Note: This section shows the list of customers.
 Note: This section shows a form to create, edit customers. 
 
 **Report**
-![Report](https://github.com/ntidev/invoice-test/blob/main/assets/hour_report.png)
+![Report](https://github.com/ntidev/invoice-test/blob/main/assets/generate_report.png)
 Note: Initially, no data needs to be displayed until a date range is specified and the generate action is issued. The report shows invoices generated in the system during a timeframe. 
 
 ### Bonus Points
