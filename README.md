@@ -15,7 +15,7 @@ The test consists of a basic **Invoice System** which includes the following mod
 3. Invoice Module (w/ CRUD)
 4. Report Module
 
-The basic idea behind the application is that an Employee can log in and create/update/delete customers and invoices for those customers. In addition, those that login into the system can run reports that will show geneated invoices in a period of time.
+The basic idea behind the application is that an Employee can log in and create/update/delete customers and invoices for those customers. In addition, those that login into the system can run reports that will show generated invoices in a period of time.
 
 #### Sample Screens
 
